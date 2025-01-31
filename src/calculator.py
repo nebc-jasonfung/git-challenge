@@ -17,9 +17,6 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-def power(x):
-    return x * x
-
 
 print("Select operation.")
 print("1.Add")
